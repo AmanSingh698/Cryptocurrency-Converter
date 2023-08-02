@@ -1,2 +1,2 @@
-# Cryptocurrency-Converter
-Created Cryptocurrency converter using React. I've used Material UI for designing although I've used very few designs. For data, I have used CoinGeko API for real time updates.
+# Random Joke Generator
+Created a Random Joke Generator web applications which gives a new joke everytime when a button is clicked. I've used an API to fetch the data.
